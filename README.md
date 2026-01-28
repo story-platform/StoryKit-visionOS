@@ -35,7 +35,7 @@ Whether you are building a XR experience, an educational product, or a creative 
 The Swift Package Manager is a tool for automating the distribution of Swift code and is integrated into the swift compiler.
 ```
 dependencies: [
-    .package(url: "https://github.com/story-platform/StoryKit-visionOS.git", from: "1.0.0")
+    .package(url: "https://github.com/story-platform/StoryKit-visionOS.git", from: "1.0.1")
 ]
 ```
 
